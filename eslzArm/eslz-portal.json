@@ -1,3 +1,7 @@
+{
+        "scope": "/" // routing the request to tenant root
+}
+
 [
     {
         "allowedOrigins": ["*"],
